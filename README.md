@@ -1,8 +1,8 @@
-# InstaDrafts
+# InstaDrafts 📷
 
-InstaDrafts is an application to rank, filter and save the images on your device, in order to keep track of most Instagrammable pictures from your camera roll :camera: , ready to be posted at a moment's notice.
+InstaDrafts is an application to rank, filter and save the images on your device, in order to keep track of most Instagrammable pictures from your camera roll 📸 , ready to be posted at a moment's notice.
 
-Ranking allows users to be able to pick between similar pictures and save/queue them up to be posted at a later time to keep your feed diverse and exciting!
+Ranking allows users to be able to pick between similar pictures and save/queue them up to be posted at a later time to keep your feed fresh, diverse and exciting! 🌟 
 
 ## Images with Rankings
 <img width="600" alt="all" src="https://user-images.githubusercontent.com/56200997/122331607-1c34b580-cf03-11eb-8783-efe7e5de3330.png">
